@@ -1,5 +1,4 @@
 name: NaCl
 contact: NaClwww@outlook.com
 ip:
-  - 172.16.53.0/24
   - 172.16.48.0/24

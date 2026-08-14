@@ -2,6 +2,7 @@ name: Vidar HDU
 ip:
   - 172.16.79.0/24
   - 192.168.11.0/24
+  - 172.16.53.0/24
 domain:
   vidar.dn11: 
     - ns1.vidar.dn11
